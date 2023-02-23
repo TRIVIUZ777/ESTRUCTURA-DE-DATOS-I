@@ -1,8 +1,0 @@
-C:\Users\PC 11\source\repos\EstDat_Clas1\EstDat_Clas1\bin\Debug\EstDat_Clas1.exe.config
-C:\Users\PC 11\source\repos\EstDat_Clas1\EstDat_Clas1\bin\Debug\EstDat_Clas1.exe
-C:\Users\PC 11\source\repos\EstDat_Clas1\EstDat_Clas1\bin\Debug\EstDat_Clas1.pdb
-C:\Users\PC 11\source\repos\EstDat_Clas1\EstDat_Clas1\obj\Debug\EstDat_Clas1.csproj.AssemblyReference.cache
-C:\Users\PC 11\source\repos\EstDat_Clas1\EstDat_Clas1\obj\Debug\EstDat_Clas1.csproj.SuggestedBindingRedirects.cache
-C:\Users\PC 11\source\repos\EstDat_Clas1\EstDat_Clas1\obj\Debug\EstDat_Clas1.csproj.CoreCompileInputs.cache
-C:\Users\PC 11\source\repos\EstDat_Clas1\EstDat_Clas1\obj\Debug\EstDat_Clas1.exe
-C:\Users\PC 11\source\repos\EstDat_Clas1\EstDat_Clas1\obj\Debug\EstDat_Clas1.pdb
