@@ -1,7 +1,7 @@
 # ESTRUCTURA-DE-DATOS-I
 Estudiante de la materia Estructura de Datos
 [![](https://fondosmil.com/fondo/32705.jpg)](https://fondosmil.com/fondo/32705.jpg "李健首张专辑《似水流年》封面")
-[![Alt text](https://i.ytimg.com/vi/yXUr14Ek3_s/hqdefault.jpg)](https://www.youtube.com/watch?v=VjNxfaypHx8 "李健首张专辑《似水流年》封面")
+
 ## ✨ HITO 2
 
 
