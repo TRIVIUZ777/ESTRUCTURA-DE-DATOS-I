@@ -43,5 +43,5 @@ https://github.com/TRIVIUZ777/ESTRUCTURA-DE-DATOS-I/tree/main/HITO%205/PROYECTO%
 
 ## 📝 License
 
-Copyright © 2021 [TRIVIUZ777](https://github.com/TRIVIUZ777).
+Copyright © 2023 [TRIVIUZ777](https://github.com/TRIVIUZ777).
 See ``MIT LICENSE`` for more information.
